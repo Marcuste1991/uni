@@ -1,0 +1,9 @@
+- everything is an object
+- numbers: unlimited size / (nearly) no overflow
+- float
+- complex numbers:
+  - a = 1 + 3j
+  - a.real
+
+- usual suspects
+    - 12, 3.14, 0xFF, 0377
